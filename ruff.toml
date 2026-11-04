@@ -1,0 +1,9 @@
+target-version = "py39"
+line-length = 120
+
+[lint]
+select = ["E", "F", "W", "I", "B"]
+
+[lint.per-file-ignores]
+"outreach/drafting.py" = ["E501"]
+"scripts/render_media.py" = ["E501"]

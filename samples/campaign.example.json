@@ -1,0 +1,15 @@
+{
+  "campaign_name": "Bakery owners - order automation - Nov",
+  "sender_name": "Sam Carter",
+  "sender_company": "Carter Automation",
+  "offer": "I set up simple systems that turn website and WhatsApp orders into one tidy daily order sheet, so nobody retypes orders by hand",
+  "call_to_action": "Would a 15 minute call next week be useful?",
+  "sending_accounts": ["sam@outreach.example.com"],
+  "daily_cap": 5,
+  "timezone": "Europe/London",
+  "window_from": "09:00",
+  "window_to": "17:00",
+  "send_days": [1, 2, 3, 4, 5],
+  "follow_up_delay": 3,
+  "follow_up_unit": "days"
+}

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+data/
+live/
+campaign.json
+.env
+PORTFOLIO-LISTING.md
+PROGRESS.md
+*.db

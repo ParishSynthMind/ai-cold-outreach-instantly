@@ -1,0 +1,6 @@
+email,first_name,last_name,company,role,website,notes,consent_basis
+jo@riverside-bakery.example.com,Jo,Hale,Riverside Bakery,Owner,riverside-bakery.example.com,Asked at our stand at the Leeds food fair for info on taking wholesale orders online. Currently takes orders by phone and WhatsApp.,Asked for information at Leeds food fair stand (Oct 2026)
+priya@northloaf.example.com,Priya,Shah,North Loaf,Operations manager,,Downloaded our order-sheet checklist and ticked 'contact me'.,Opted in on checklist download form
+alex@unknowncafe.example.com,Alex,,Unknown Cafe,,,,Existing customer of partner firm (introduced by email)
+bad-address,Chris,,Somewhere Ltd,,,,Opted in
+noconsent@example.com,Lee,,Lee's Deli,Owner,,Runs two delis,
