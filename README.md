@@ -93,7 +93,7 @@ Tested live on 4 November 2026 against an Instantly free trial, sending only to 
 
 ![Live run](media/live-run.png)
 
-**What is not proven here:** real prospecting volume, deliverability at scale, mailbox warmup (left off on purpose for this test), custom sending domains, and Smartlead (not built; the same design would carry over, but it has not been written or tested). Webhooks were not tested (not available on the trial).
+**What is not proven here:** real prospecting volume, deliverability at scale, mailbox warmup (left off on purpose for this test), custom sending domains, and Smartlead (built later as its own repo, [ai-cold-outreach-smartlead-apollo](https://github.com/ParishSynthMind/ai-cold-outreach-smartlead-apollo), tested with mocks only). Webhooks were not tested (not available on the trial).
 
 ## Limitations
 
